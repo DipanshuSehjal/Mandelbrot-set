@@ -11,5 +11,5 @@ The [Mandelbrot set](https://en.wikipedia.org/wiki/Mandelbrot_set) is one of the
   Each different color in the image represents how many iterations it took for the function f(z) to diverge. For points where the function f(z) does not diverge (for example, c=0), the corresponding pixel is usually colored black.
   
   
-**Goal of project**:
+# Goal of project:
 Implementation of multiprocessing module of Python to achieve better speed by leveraging multiprocessors in modern computers for doing heavy computational tasks.
